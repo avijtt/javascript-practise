@@ -8,3 +8,4 @@ This is the overall necessary knowledge in javascript from start to end.
 3. Operators
 4. Interaction
 5. Type-Conversion
+6
