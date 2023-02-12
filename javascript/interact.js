@@ -6,7 +6,7 @@ alert(val);
 alert("hello"); //gives browse data
 
 //Prpmpt
-    //two argument pass
+    //two argument pass 
        let age=prompt('how old are you?',); //no default value
        console.log(age);
        alert(`I am ${age}`)   
@@ -16,7 +16,7 @@ alert("hello"); //gives browse data
 
         let str=prompt("who are you!!",)
         alert(` Myself ${str}`); //string used
-
+            //prompts always return string
 
         //confirm 
                 //gives the model window

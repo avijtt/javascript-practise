@@ -1,4 +1,10 @@
-//typeof is element
+//typeofgives the nature of expression either boolean,number,string
+
+    // howw to ScriptProcessorNode
+
+    // let variable=expressio;
+    //     variable2=conversion_state(variable)
+
 
 //string conversion
 
@@ -19,3 +25,11 @@ alert(typeof value1) //string
 
 let num=Number(value1);
 alert(typeof num)
+
+//if string has no numbe rit gives NaN
+
+alert( Number("   123   ") ); // 123
+alert( Number("123z") );      // NaN (error reading a number at "z")
+alert( Number(true) );        // 1
+alert( Number(false) );       // 0
+
