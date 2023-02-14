@@ -102,4 +102,4 @@ else{
     alert("I don't know you");
 }
 //nullish coalescing ??
-// ?? returns the first argument if it’s not null/undefined. Otherwise, the second one.
+// ?? returns the first argument if it’s not null/undefined. Otherwise, the second one. newly use
