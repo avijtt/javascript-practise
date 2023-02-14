@@ -42,4 +42,29 @@
 
 
     //comparision of null and undefines
-    console.log(null==undefined)  //false
+
+    //strict equality always false
+     console.log(null===undefined)  //false
+
+     //normal comparision
+    console.log(null==undefined)  //true
+
+
+
+    // Strange result: null vs 0
+    // compare null with a zero:
+
+    //NULL TREATED AS 0 IN BELOW CASE
+        alert( null > 0 );  // false
+        alert( null == 0 ); // false
+        alert( null >= 0 ); // true
+
+
+        // An incomparable undefined
+        // The value undefined shouldn’t be compared to other values:
+
+        
+        //UNDEFINED CONVERTED AS NaN
+        alert( undefined > 0 ); // false 
+        alert( undefined < 0 ); // false 
+        alert( undefined == 0 ); // false 
