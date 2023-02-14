@@ -88,10 +88,10 @@ if(userName=='Admin') {
         alert('Welcome Home!');
     }
     else if(pass==null || pass==''){
-        alert('cancelled')
+        alert('cancelled');
     }
     else{
-        alert('Wrong password')
+        alert('Wrong password');
     }
 
 }
@@ -101,3 +101,5 @@ else if(userName==null || userName==''){
 else{
     alert("I don't know you");
 }
+//nullish coalescing ??
+// ?? returns the first argument if it’s not null/undefined. Otherwise, the second one.
