@@ -1,11 +1,12 @@
 *{
     margin: auto;
-    padding: 0;;
+    padding: 0;
 }
 .contain{
  display: flex;
   justify-content: center;
 }
+
 
 
 
