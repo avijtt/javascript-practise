@@ -10,6 +10,8 @@ This is the overall necessary knowledge in javascript from start to end.
 4. Type-conversion
 5. Operators
 6. Comparision
+7. if and conditional statement
+8. Logical operator
 
 
 
