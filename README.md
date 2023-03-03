@@ -12,7 +12,10 @@ This is the overall necessary knowledge in javascript from start to end.
 6. Comparision
 7. if and conditional statement
 8. Logical operator
-9 . Loops
+9. Loops
+10. switch
+11. function
+12. function Expression
 
 
 
