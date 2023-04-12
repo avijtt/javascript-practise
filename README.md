@@ -16,6 +16,7 @@ This is the overall necessary knowledge in javascript from start to end.
 10. switch
 11. function
 12. function Expression
+13. arrow function
 
 
 
