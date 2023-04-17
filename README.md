@@ -19,6 +19,12 @@ This is the overall necessary knowledge in javascript from start to end.
 13. arrow function
 
 
+# javsscript objects
+1. object basics
+2. object copy
+3. object "this" method
+ 
+
 
 
 ## things to consider before running javascript file
