@@ -23,7 +23,14 @@ This is the overall necessary knowledge in javascript from start to end.
 1. object basics
 2. object copy
 3. object "this" method
- 
+4. constructor new 
+
+# Data Types
+1. Methods to primitive
+2. Numbers
+3. String
+
+
 
 
 
