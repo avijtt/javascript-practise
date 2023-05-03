@@ -29,6 +29,7 @@ This is the overall necessary knowledge in javascript from start to end.
 1. Methods to primitive
 2. Numbers
 3. String
+4. Arrays
 
 
 
