@@ -143,19 +143,25 @@ alert('0' == [] ); // false
 
 
 //find aum
-function findSum(){
-let number=[]
-while(true){
-    let n=prompt("Enter a number: ")
-    if(n==null || n=="" ||isFinite(n)){
-        break;
-}
-number.push(n)
+function sumInput() {
 
-let sum=0
-for(num of number){
-    sum +=number
-}
-return sum
-}
-console.log(findSum())
+    let numbers = [];
+  
+    while (true) {
+  
+      let value = prompt("A number please?", 0);
+  
+      // should we cancel?
+      if (value === "" || value === null || !isFinite(value)) break;
+  
+      numbers.push(+value);
+    }
+  
+    let sum = 0;
+    for (let number of numbers) {
+      sum += number;
+    }
+    return sum;
+  }
+  
+  alert( sumInput() );
