@@ -30,6 +30,13 @@ This is the overall necessary knowledge in javascript from start to end.
 2. Numbers
 3. String
 4. Arrays
+5. Arrays methods
+5. Map and Set
+6. object.keys,values,entries
+7. Destructuring Assignment
+8. Date and Time
+9. JSON methods toJSON
+
 
 
 
