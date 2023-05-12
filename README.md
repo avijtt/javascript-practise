@@ -1,7 +1,7 @@
 # javascript-practise
 This is the overall necessary knowledge in javascript from start to end.
 ```
-
+# JAVASCRIPT LANGUAGE
 # javascript fundamental
 `
 1. Data types
@@ -37,10 +37,18 @@ This is the overall necessary knowledge in javascript from start to end.
 8. Date and Time
 9. JSON methods toJSON
 
+# Advance working with function
+1. Recursssion and stack
+2. Rest Parameter and Spread
 
 
-
-
+# BROWSER:DOCUMENT,EVENTS AND INTERFACE
+# Document
+1. Browser enviromnent
+2. DOM tree
+3. Walking the DOM
+4. Searching getElementBy* and querySelector*
+5. Node properties:type,tag and contents
 
 ## things to consider before running javascript file
 - variable may be same in different javascript file.
