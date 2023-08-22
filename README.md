@@ -54,3 +54,4 @@ This is the overall necessary knowledge in javascript from start to end.
 - variable may be same in different javascript file.
 - only one file be run at a time.
 - multiple run of js file coause error;
+-may occur of conflict in running
